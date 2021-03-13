@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 9d6e256d112b38644a3d7f3c1e4825e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3457174657688391836
+    second: PinClipart.com_edge-clipart_1562821_0
+  - first:
+      213: -3491556079354085878
+    second: PinClipart.com_edge-clipart_1562821_1
+  - first:
+      213: -8072786923846080966
+    second: PinClipart.com_edge-clipart_1562821_2
+  - first:
+      213: 5313042997178007185
+    second: PinClipart.com_edge-clipart_1562821_3
+  - first:
+      213: -6064733051592436769
+    second: PinClipart.com_edge-clipart_1562821_4
+  - first:
+      213: 9218002196665637082
+    second: PinClipart.com_edge-clipart_1562821_5
+  - first:
+      213: 4780389856180266459
+    second: PinClipart.com_edge-clipart_1562821_6
+  - first:
+      213: 2024977355125185782
+    second: PinClipart.com_edge-clipart_1562821_7
+  - first:
+      213: -7874302877262154969
+    second: PinClipart.com_edge-clipart_1562821_8
+  - first:
+      213: 6446250069646154179
+    second: PinClipart.com_edge-clipart_1562821_9
+  - first:
+      213: -4902474767954874042
+    second: PinClipart.com_edge-clipart_1562821_10
+  - first:
+      213: 6303292205549584492
+    second: PinClipart.com_edge-clipart_1562821_11
+  - first:
+      213: -6211520693517701847
+    second: PinClipart.com_edge-clipart_1562821_12
+  - first:
+      213: -1565366333720158393
+    second: PinClipart.com_edge-clipart_1562821_13
+  - first:
+      213: -3361957149098766325
+    second: PinClipart.com_edge-clipart_1562821_14
+  - first:
+      213: -7379401149082373167
+    second: PinClipart.com_edge-clipart_1562821_15
+  - first:
+      213: 4910497941130605140
+    second: PinClipart.com_edge-clipart_1562821_16
+  - first:
+      213: -5477842934001990877
+    second: PinClipart.com_edge-clipart_1562821_17
+  - first:
+      213: 2627131522294448751
+    second: PinClipart.com_edge-clipart_1562821_18
+  - first:
+      213: -4625479784580803662
+    second: PinClipart.com_edge-clipart_1562821_19
+  - first:
+      213: -3188787655619938677
+    second: PinClipart.com_edge-clipart_1562821_20
+  - first:
+      213: 3149722975789299331
+    second: PinClipart.com_edge-clipart_1562821_21
+  - first:
+      213: -7427173205707991262
+    second: PinClipart.com_edge-clipart_1562821_0
+  - first:
+      213: -2916655642503557732
+    second: PinClipart.com_edge-clipart_1562821_1
+  - first:
+      213: -659416941311755151
+    second: PinClipart.com_edge-clipart_1562821_2
+  - first:
+      213: -3442060772240607673
+    second: PinClipart.com_edge-clipart_1562821_3
+  - first:
+      213: -7121801511758857332
+    second: PinClipart.com_edge-clipart_1562821_4
+  - first:
+      213: 1012388306077181187
+    second: PinClipart.com_edge-clipart_1562821_5
+  - first:
+      213: -7881269560559914110
+    second: PinClipart.com_edge-clipart_1562821_6
+  - first:
+      213: 3440884577821909546
+    second: PinClipart.com_edge-clipart_1562821_7
+  - first:
+      213: -207882957710466769
+    second: PinClipart.com_edge-clipart_1562821_8
+  - first:
+      213: 5019217605128811960
+    second: PinClipart.com_edge-clipart_1562821_9
+  - first:
+      213: 998346734077238521
+    second: PinClipart.com_edge-clipart_1562821_10
+  - first:
+      213: 706281381379928337
+    second: PinClipart.com_edge-clipart_1562821_11
+  - first:
+      213: 4350855088157744812
+    second: PinClipart.com_edge-clipart_1562821_12
+  - first:
+      213: 456306915848781748
+    second: PinClipart.com_edge-clipart_1562821_13
+  - first:
+      213: 8138484645636917025
+    second: PinClipart.com_edge-clipart_1562821_14
+  - first:
+      213: -8591180625981091265
+    second: PinClipart.com_edge-clipart_1562821_15
+  - first:
+      213: -8880876793007826557
+    second: PinClipart.com_edge-clipart_1562821_16
+  - first:
+      213: -2024372620681870692
+    second: PinClipart.com_edge-clipart_1562821_17
+  - first:
+      213: 2941266619232166803
+    second: PinClipart.com_edge-clipart_1562821_18
+  - first:
+      213: 5943518332498601695
+    second: PinClipart.com_edge-clipart_1562821_19
+  - first:
+      213: 4567874429703613822
+    second: PinClipart.com_edge-clipart_1562821_20
+  - first:
+      213: -8449147437667380836
+    second: PinClipart.com_edge-clipart_1562821_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 96
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6180723, y: 0.58215415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 37}
+        - {x: -35, y: 32}
+        - {x: -35, y: 27}
+        - {x: -42, y: 19}
+        - {x: -48, y: 10}
+        - {x: -48, y: 2}
+        - {x: -35, y: -27}
+        - {x: -20, y: -37}
+        - {x: 27, y: -37}
+        - {x: 48, y: -14}
+        - {x: 48, y: 37}
+      physicsShape:
+      - - {x: -16, y: -13}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -9, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d97cf1516de890800000000000000
+      internalID: -7427173205707991262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 634
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcf607525f587d0800000000000000
+      internalID: -2916655642503557732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 628
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cfc3e19c749d6f0800000000000000
+      internalID: -659416941311755151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 630
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ba47e6f75b30d0800000000000000
+      internalID: -3442060772240607673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 631
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf5ca02474a2d90800000000000000
+      internalID: -7121801511758857332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 479
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3056d7eecc9bc0e00800000000000000
+      internalID: 1012388306077181187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 479
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833ab7671b10a290800000000000000
+      internalID: -7881269560559914110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 479
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e13efa4a70cf20800000000000000
+      internalID: 3440884577821909546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 479
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216fc62d837d1df0800000000000000
+      internalID: -207882957710466769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 479
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f614a1d7d7a540800000000000000
+      internalID: 5019217605128811960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 94
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc585fa017dadd00800000000000000
+      internalID: 998346734077238521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 322
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117f90ac273dc900800000000000000
+      internalID: 706281381379928337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 322
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed7de96a7516c30800000000000000
+      internalID: 4350855088157744812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 322
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf78bbe8b0255600800000000000000
+      internalID: 456306915848781748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 322
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c8296aa4b1f070800000000000000
+      internalID: 8138484645636917025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32dd2b1dbef5c880800000000000000
+      internalID: -8591180625981091265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 165
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38912c21c99c0c480800000000000000
+      internalID: -8880876793007826557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 165
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920b3bb3dbf7e3e0800000000000000
+      internalID: -2024372620681870692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 165
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932c0d186a71d820800000000000000
+      internalID: 2941266619232166803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 161
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e99cee6e9b7250800000000000000
+      internalID: 5943518332498601695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de2199799546f30800000000000000
+      internalID: 4567874429703613822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_edge-clipart_1562821_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911fe2cb299eba80800000000000000
+      internalID: -8449147437667380836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

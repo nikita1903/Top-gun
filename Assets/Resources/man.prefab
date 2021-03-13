@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5497778222703995355
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5497778222703995358}
+  - component: {fileID: 5497778222703995359}
+  - component: {fileID: 5497778222703995352}
+  - component: {fileID: 5497778222703995353}
+  - component: {fileID: 5497778222703995354}
+  - component: {fileID: 5497778222703995299}
+  - component: {fileID: 5497778222703995356}
+  - component: {fileID: 5497778222703995357}
+  - component: {fileID: -3521620376831930735}
+  m_Layer: 9
+  m_Name: man
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5497778222703995358
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6, y: -122, z: 0}
+  m_LocalScale: {x: 0.9, y: 0.9, z: 0.21}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &5497778222703995359
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 77d846b22679eb04084b5864401894bc, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.56, y: 2.56}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!61 &5497778222703995352
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.2, y: -0.06}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.56, y: 2.56}
+    newSize: {x: 2.56, y: 2.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.69, y: 2.13}
+  m_EdgeRadius: 0
+--- !u!50 &5497778222703995353
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &5497778222703995354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62a53dd97be2de94488d60b34084984e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  Haracter: {fileID: 5497778222703995355}
+  Shop: {fileID: 6381722386542322261, guid: b4ac868958869c44e982144f6c818f16, type: 3}
+  panel: {fileID: 8919552495238357237, guid: ed6031a9be6f04545a46f0fffa45edb4, type: 3}
+  fancis: []
+  standart: {fileID: 21300000, guid: 8f51adb38a2e3604f937d882a4245fbd, type: 3}
+  panback: {fileID: 0}
+  har1: {fileID: 0}
+  har2: {fileID: 0}
+  kon: []
+  chiv: 0
+  nomer: -1
+  bil: 0
+--- !u!114 &5497778222703995299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  observableSearch: 2
+  Synchronization: 3
+  OwnershipTransfer: 0
+  ObservedComponents:
+  - {fileID: 5497778222703995356}
+  - {fileID: 5497778222703995357}
+  viewIdField: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &5497778222703995356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7cb724808c322458aa4d15f5035fa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SynchronizeVelocity: 1
+  m_SynchronizeAngularVelocity: 0
+  m_TeleportEnabled: 0
+  m_TeleportIfDistanceGreaterThan: 3
+--- !u!114 &5497778222703995357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SynchronizePosition: 1
+  m_SynchronizeRotation: 1
+  m_SynchronizeScale: 0
+--- !u!114 &-3521620376831930735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497778222703995355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 680c22f1613c92a4fa24808e77c29223, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  standart: {fileID: 21300000, guid: 8f51adb38a2e3604f937d882a4245fbd, type: 3}
+  fance: []
+  brown: {fileID: 21300000, guid: 7d3dd037129ec2a45b26f9c49095e7da, type: 3}
+  red: {fileID: 21300000, guid: 08d277c9177748948ba4d5e529fd046d, type: 3}
+  sir: {fileID: 21300000, guid: cb45efbba0c9e3e45bcc9a389e18433b, type: 3}
+  stena: {fileID: 21300000, guid: 596280bf3c4ec964cb2806e7aae3e2b1, type: 3}
+  door1: {fileID: 21300000, guid: 8cc238203b552a8469d3c1473fc01e91, type: 3}
+  door2: {fileID: 21300000, guid: 6ba5cd65d4cca3447821f408c53787a7, type: 3}
+  tree: {fileID: 21300000, guid: ca8cbe3618517244db90fa673084ef54, type: 3}
+  flower: {fileID: 21300000, guid: 1316d6ed7605ab04aae63daf5229f54e, type: 3}
+  kamin: {fileID: 21300000, guid: a4b20a92259ad2d42bf0ff8e3c4cd513, type: 3}
+  divan: {fileID: 21300000, guid: e59c2ba5ba6851347b32f25150efdf1a, type: 3}
+  zabor: {fileID: 21300000, guid: 34324449b44fb9849a30bc81e2de9500, type: 3}
+  tv: {fileID: 21300000, guid: 4eb2ce313d37a2a4eb6f8321817cf0db, type: 3}
+  phone: {fileID: 21300000, guid: f1ed8cb567b9703419dfe1d39b6d72d1, type: 3}
+  table: {fileID: 21300000, guid: 8d7b1e2ccab120c469719ee99428d274, type: 3}
+  comp: {fileID: 21300000, guid: 836fc0c8fc360e8429a7f4172be81ce9, type: 3}
+  lampa: {fileID: 0}
+  bed: {fileID: 0}
+  shkaf: {fileID: 0}
+  tumb: {fileID: 0}
+  xolod: {fileID: 0}
+  aqua: {fileID: 0}
+  stiral: {fileID: 0}
+  vodop: {fileID: 0}
+  tualet: {fileID: 0}
+  derevo: {fileID: 0}
+  cat: {fileID: 0}
+  dog: {fileID: 0}
+  vanna: {fileID: 0}
+  dont: {fileID: 0}
